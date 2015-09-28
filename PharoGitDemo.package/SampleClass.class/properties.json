@@ -1,0 +1,14 @@
+{
+	"category" : "PharoGitDemo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"starName" ],
+	"name" : "SampleClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
